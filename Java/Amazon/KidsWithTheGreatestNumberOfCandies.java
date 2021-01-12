@@ -1,9 +1,11 @@
 package Java.Amazon;
 
+//1431. Kids With the Greatest Number of Candies
+// EASY
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
 public class KidsWithTheGreatestNumberOfCandies {
 
     public static void main(String[] args) {
